@@ -1,8 +1,8 @@
-# 🌍 CarbonoStepEFC: Carbon Footprint Dashboard
+# 🌍 Carbon Footprint Dashboard
+
 Datos en grafico y Swift Data de la huella de carbono.
 
 ![](carbono_huella.mov)
-
 
 ## 🚀 Características Técnicas
 
@@ -30,7 +30,7 @@ La aplicación permite clasificar el impacto en cuatro áreas clave para un aná
 ## 💻 Instalación y Uso
 
 1. Crea un proyecto.
-2. Utiliza el ContentView.swift de este repositorio.
+2. Utiliza el ContentView.swift de este repositorio. 
 
 > **Nota Técnica:** La aplicación requiere la inyección del contenedor de datos en la raíz:
 > `.modelContainer(for: EcoActivity.self)`
